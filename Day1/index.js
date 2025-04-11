@@ -1,2 +1,1 @@
-let a = "hello js"
-console.log(a)
+alert("hello js")

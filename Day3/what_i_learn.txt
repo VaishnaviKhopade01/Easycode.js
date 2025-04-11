@@ -1,0 +1,11 @@
+Data has mainly two types:
+
+1.Primitive datatype
+
+a.number
+b.string
+c.boolean
+d.NULL
+e.undefined
+
+2.Non-primitive datatype
