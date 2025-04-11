@@ -9,3 +9,12 @@ d.NULL
 e.undefined
 
 2.Non-primitive datatype
+    1.array
+    2.object
+    3.function
+
+let obj {}
+
+let arr[]
+
+let sum()
