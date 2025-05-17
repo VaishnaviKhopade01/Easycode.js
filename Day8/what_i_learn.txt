@@ -1,0 +1,16 @@
+alert()  = show alert on webpage
+        alert box have ok button
+        it returns undefine
+
+
+confirm()  = shows confirm box on webpage
+            confirm box returns True or False
+            confirm box have 2 buttons 
+            i.e   cancel = False
+                    Ok = True
+
+
+prompt()  = it have a input that takes input through browser
+            it also have 2 btns cancel and ok 
+            if we click on cancel it returns NULL
+            if we click on ok it returns input value in string
