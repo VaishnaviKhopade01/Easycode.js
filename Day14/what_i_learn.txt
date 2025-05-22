@@ -1,9 +1,35 @@
-while loop:
+WHILE LOOP:
 
     while(condition){
         //code
     }
 
-do-while loop:
-
+if condition is true then code will execute
+code will execute whenever condition is true if condition becomes false it will terminate.
     
+    eg.let i=0
+        while(i<3){
+            console.log(i)
+            i++
+        }
+
+    Entry control loop
+
+
+
+DO-WHILE LOOP:
+
+    do{
+        //code
+    }while(condition)
+
+firstly statement of code will execute then it will check condition .i.e atleast once  the statement is executed before checking condition.
+
+    Bottom control loop
+
+    eg.
+    let i=0
+    do{
+        console.log(i)
+        i++
+    }while(i<10)
