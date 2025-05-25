@@ -1,0 +1,6 @@
+
+str.length() : returns the length of string
+
+str.toLowerCase() : convert string into lowercase 
+
+str.toUpperCase() : convert string into uppercase
