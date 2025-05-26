@@ -1,0 +1,23 @@
+for loop:
+    for(initialization;condition;updation)
+
+    eg.let n=10
+    for(i=0;i<n;i++)
+
+
+    * for of loop:
+
+    for(iteration of arrayname){
+
+    }
+
+eg. let num = {1,2,3}
+for(let i of num){
+    console.log(i)
+}
+
+    *for in loop:
+
+    for(let key in objectname){
+        
+    }
