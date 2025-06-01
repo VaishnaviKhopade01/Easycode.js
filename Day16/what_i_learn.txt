@@ -1,0 +1,34 @@
+for of loop:
+
+    for(let i of arrayname){
+        //code
+    }
+
+    for of loop is generally used for array.
+
+
+for in loop:
+
+    for(let key in objectname){
+        //code
+    }
+
+    for in loop is usually used for object.
+
+
+
+    FUNCTIONS:
+
+function is block of code which perform particular task.
+    syntax:
+    function func_name(){
+        //code
+    }
+    func_name()  i.e call the function
+
+
+    There are 2 types of function:
+
+    1. some function returns something
+
+    2. some function not return anything
