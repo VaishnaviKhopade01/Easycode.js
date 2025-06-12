@@ -1,0 +1,31 @@
+  
+  Anonymous Function : the function which not has any name 
+        i.e function without name
+
+
+    Arrow funtion: =>
+
+
+
+    IIFE : Immediately invoke Function Expression
+    
+
+    Callback Function : passing function as argument
+
+    Higher order Function : the function which take another function in its parameter or return the function 
+
+
+    Function Hell:
+
+    eg. function retHellofunction(){
+                return function(){
+                    return function(){
+                      return funtion(){
+                        console.log("hello")
+                      }
+                    }
+                }
+        }
+
+
+        ek ke andar ek function isko function hell bolte hai.
