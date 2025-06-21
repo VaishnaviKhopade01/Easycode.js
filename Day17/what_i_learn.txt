@@ -1,0 +1,24 @@
+    FUNCTIONS:
+
+function is block of code which perform particular task or which handle particular task.
+
+    syntax:
+    function func_name(){
+        //code
+    }
+    func_name()  i.e call the function
+
+
+    parameters : we can pass any parameter name like name, num, any name. i.e we can pass anything 
+                    function body in which we get argument is called parameter.
+
+    arguments : value that we pass to function.
+
+
+
+
+    There are 2 types of function:
+
+    1. some function returns something
+
+    2. some function not return anything    
